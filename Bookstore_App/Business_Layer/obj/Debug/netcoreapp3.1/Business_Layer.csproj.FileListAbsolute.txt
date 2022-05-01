@@ -1,0 +1,15 @@
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.deps.json
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.dll
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Business_Layer.pdb
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Common_Layer.dll
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Repository_Layer.dll
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Repository_Layer.pdb
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\bin\Debug\netcoreapp3.1\Common_Layer.pdb
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.AssemblyReference.cache
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfoInputs.cache
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.AssemblyInfo.cs
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.CoreCompileInputs.cache
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.csproj.CopyComplete
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.dll
+C:\Users\prati\source\repos\Bookstore_App\Bookstore_App\Business_Layer\obj\Debug\netcoreapp3.1\Business_Layer.pdb

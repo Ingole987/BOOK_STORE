@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYedkDRqvTYTfFFsiBXq4USvgvzqNK6FYl2EEfv8CyZmIp04SDl8mr3pUYXAcGPkqlN4/nnF4+hSdZKJkjnkGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prati\\source\\repos\\Bookstore_App\\Bookstore_App\\Common_Layer\\Common_Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prati\\.nuget\\packages\\experimental.system.messaging\\1.1.0\\experimental.system.messaging.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
